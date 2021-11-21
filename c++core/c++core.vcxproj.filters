@@ -15,8 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="03point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06电脑组装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="01学生类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02设计立方体类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03点和园的关系.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04多态案例-计算器实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05多态案例-制作饮品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
